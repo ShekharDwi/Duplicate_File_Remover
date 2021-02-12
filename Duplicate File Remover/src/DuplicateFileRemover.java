@@ -1,3 +1,7 @@
+// Duplicate File Remover
+// Author : Shekhar Dwivedi
+// Created on : 12/02/2021
+
 import javax.xml.bind.DatatypeConverter;
 import java.io.*;
 import java.nio.file.Files;
